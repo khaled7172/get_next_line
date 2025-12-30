@@ -83,3 +83,4 @@ Quick Reference:
 echo -e Interpret escapes
 printf fromatted output
 CTRL+D SEND EOF
+valgrind --leak-check=full ./a.out
