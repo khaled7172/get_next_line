@@ -7,10 +7,10 @@
 ## Get Next Line is a project that attempts to read the buffer size and keep reading until we find a \n and to return the start of the sentence till \n inclusive and return a single line each time it is called
 
 ## Instructions
-## call fucntion repeatedly to read line-by-line from a file descriptor
+call fucntion repeatedly to read line-by-line from a file descriptor
 
 ## Resources
-## Google
+Google
 
 ## How AI was used
 AI was used to explain the algorithm step-by-step in natural language
