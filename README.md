@@ -17,7 +17,7 @@ AI was used to explain the algorithm step-by-step in natural language
 Clarifying edge cases and logic flow
 AI did not provide any implementation code
 
-## Methods to test the damned code
+## Methods to test the code
 
 what is Echo?
 
